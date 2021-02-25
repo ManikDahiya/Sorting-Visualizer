@@ -28,3 +28,13 @@ Available Controls inside Sorting Visualizer:-
 -> Use 6 to start Heap Sort Algorithm.
 
 -> Use q to exit out of Sorting Visualizer
+
+# Samples
+
+-> Sample 1(Insertion Sort)
+
+![](samples/example1.gif)
+
+-> Sample 2(Merge Sort)
+
+![](samples/example2.gif)
